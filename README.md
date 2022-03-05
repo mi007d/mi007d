@@ -1,25 +1,10 @@
-<h1 align="center">Hello! ~> <img src="https://komarev.com/ghpvc/?username=mi007d&color=yellow" alt="Profile views" /></h1>
+## Hello 👋🏼
 
-<h3> About </h3>
-<hr>
+[![mi007d's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi007d&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mi007d&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<h5>Using</h5>
-
-![VSCodium](https://img.shields.io/badge/-VSCodium-05122A?style=flat&logo=visual-studio-code)&nbsp;
-
-<h5>I can write something with</h5>
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
-![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
-
-<h5>Learning</h5>
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
-<hr>
-
-<h2>Stats</h2>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mi007d&show_icons=true&theme=vision-friendly-dark" alt="mi007d's stats"/>
-<img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi007d&layout=compact&theme=vision-friendly-dark" alt="mi007d's most languages"/>
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
